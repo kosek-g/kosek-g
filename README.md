@@ -1,6 +1,6 @@
 ### Hi there. My name is Grzegorz 👋
 
-- :zap: Passionate about Data Science & Engineering, programming and new technologies
+- :zap: Passionate about software engineering and new technologies
 - 🌱 I love to learn and grow every day
 - :musical_note: Music lover and creator
   -  [My YouTube channel](https://www.youtube.com/channel/UCAd4FtruSIvH1tKdOSXWKow)
